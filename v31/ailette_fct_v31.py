@@ -72,7 +72,6 @@ def position(Z,R,nz,nr):
 
     return z,r
     
-#TESTTTTTTTTTTTT
 
 def mdf_CF_isolation(z,r,nz,nr,Bi): 
     """ Fonction assemblant la matrice A et le vecteur b
